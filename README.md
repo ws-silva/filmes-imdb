@@ -4,3 +4,14 @@
     <p align="center">🚀Linguagem usada no projeto</p>
      <a href="">🔗 Python</a>
 </h1>
+
+# 🎲 informação
+peguei as duas primeiras página de cada categoria adicionei e depois transformei em DataFrame.
+
+#🚩Requerimentos
+pip install requests
+pip install bs4
+pip install pandas
+
+# Resultado 👇
+![screenshot]()
