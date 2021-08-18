@@ -9,9 +9,9 @@
 peguei as duas primeiras página de cada categoria adicionei e depois transformei em DataFrame.
 
 # 🚩Requerimentos
-pip install requests
-pip install bs4
-pip install pandas
+pip install requests<br>
+pip install bs4<br>
+pip install pandas<br>
 
 # Resultado 👇
 ![screenshot](https://github.com/ws-silva/filmes-imdb/tree/main/img)
