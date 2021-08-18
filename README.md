@@ -14,4 +14,4 @@ pip install bs4<br>
 pip install pandas<br>
 
 # Resultado 👇
-<img src="https://github.com/ws-silva/filmes-imdb/blob/main/img/mostrardados.png">
+<img src="https://github.com/ws-silva/filmes-imdb/blob/main/img/dados.png">
