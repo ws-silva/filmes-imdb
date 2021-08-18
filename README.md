@@ -8,10 +8,10 @@
 # 🎲 informação
 peguei as duas primeiras página de cada categoria adicionei e depois transformei em DataFrame.
 
-#🚩Requerimentos
+# 🚩Requerimentos
 pip install requests
 pip install bs4
 pip install pandas
 
 # Resultado 👇
-![screenshot]()
+![screenshot](https://github.com/ws-silva/filmes-imdb/tree/main/img)
